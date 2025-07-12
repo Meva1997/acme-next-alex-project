@@ -44,7 +44,7 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 2. Start the development server:
 
    ```bash
-   pnpm dev
+   pnpm run dev
    ```
 
 3. Open [http://localhost:3000](http://localhost:3000) in your browser, or visit the deployed app at  
